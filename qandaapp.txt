@@ -1,0 +1,32 @@
+made a loose matcching for it
+
+for example matches with all words in questions
+
+if extra words prsents then it will return all maching with those words
+
+
+since no dungeons and dragons are present it only returned one correct result
+
+but what , is , etc are present in almost all question so it generalized it
+
+and returned all matching
+
+
+
+
+a dropdown can be implemented where when you start writing question
+it auto predits like google so you only search with coirrect question
+
+
+
+no areopplanes and flying bisons  are present so it returned motto matching
+
+
+
+and this is ON TOP OF WHAT ALREADY IS
+
+THIS FUNCTIONALITY ONLY GETS EXECUTED IF SOMEBODY WRITES WORDS NOT PRESENT IN QUESTION ITSELF
+
+
+
+:)
